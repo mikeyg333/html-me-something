@@ -1,0 +1,29 @@
+header {
+    border: 40px solid black
+}
+body {
+    text-align: center;
+    background-color: slategrey;
+    font-family: Trebuchet MS;
+}
+.rounded {
+    border: 5px solid black;
+    border-radius: 25px;
+    padding: 50px
+}
+.info {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#Zelda {
+    color:green;
+}
+#Last {
+    color:brown
+}
+#Mario {
+    color:red;
+}
+#Golden {
+    color:gold;
+}
